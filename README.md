@@ -1,3 +1,4 @@
+# Deployed Python Django Application using Jenkins, Docker, AWS EC2
 # django-todo
 A simple todo app built with django
 
